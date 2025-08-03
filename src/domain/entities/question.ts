@@ -2,6 +2,7 @@ import { Entity } from "../../core/entities/entity"
 import { UniqueEntityID } from "../../core/entities/unique-entity-id"
 import { Slug } from "./value-objects/slug"
 import { Optional } from "../../core/types/optional"
+import dayjs from "dayjs"
 
 interface QuestionProps {
   authorId: UniqueEntityID
