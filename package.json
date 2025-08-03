@@ -19,6 +19,7 @@
   "homepage": "https://github.com/bruno-castilho/04-clean-DDD#readme",
   "devDependencies": {
     "@types/node": "^24.1.0",
-    "typescript": "^5.9.2"
+    "typescript": "^5.9.2",
+    "vitest": "^3.2.4"
   }
 }
